@@ -1,0 +1,124 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1542" tvg-name="1542" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1542.png",Israel: Baby IL (1542)
+http://api.apollogroup.tv/play/?vlc=1&channel=1542&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="473" tvg-name="473" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/473.png",Israel: Channel 11 Kan IL (473)
+http://api.apollogroup.tv/play/?vlc=1&channel=473&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="470" tvg-name="470" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/470.png",Israel: Channel 12 Keset IL (470)
+http://api.apollogroup.tv/play/?vlc=1&channel=470&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="471" tvg-name="471" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/471.png",Israel: Channel 13 Reshet IL (471)
+http://api.apollogroup.tv/play/?vlc=1&channel=471&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1557" tvg-name="1557" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1557.png",Israel: Channel 14 Eser IL (1557)
+http://api.apollogroup.tv/play/?vlc=1&channel=1557&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="478" tvg-name="478" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/478.png",Israel: Channel 20 IL (478)
+http://api.apollogroup.tv/play/?vlc=1&channel=478&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1547" tvg-name="1547" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1547.png",Israel: Channel 9 HD IL (1547)
+http://api.apollogroup.tv/play/?vlc=1&channel=1547&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="476" tvg-name="476" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/476.png",Israel: Disney IL (476)
+http://api.apollogroup.tv/play/?vlc=1&channel=476&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="474" tvg-name="474" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/474.png",Israel: Disney Jr IL (474)
+http://api.apollogroup.tv/play/?vlc=1&channel=474&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="5003" tvg-name="5003" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/5003.png",Israel: E! IL (5003)
+http://api.apollogroup.tv/play/?vlc=1&channel=5003&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1550" tvg-name="1550" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1550.png",Israel: Ego Total IL (1550)
+http://api.apollogroup.tv/play/?vlc=1&channel=1550&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1551" tvg-name="1551" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1551.png",Israel: Food Channel IL (1551)
+http://api.apollogroup.tv/play/?vlc=1&channel=1551&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1552" tvg-name="1552" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1552.png",Israel: Health IL (1552)
+http://api.apollogroup.tv/play/?vlc=1&channel=1552&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1503" tvg-name="1503" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1503.png",Israel: Home Plus IL (1503)
+http://api.apollogroup.tv/play/?vlc=1&channel=1503&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1502" tvg-name="1502" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1502.png",Israel: hop IL (1502)
+http://api.apollogroup.tv/play/?vlc=1&channel=1502&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1559" tvg-name="1559" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1559.png",Israel: Hop Yaldut IL (1559)
+http://api.apollogroup.tv/play/?vlc=1&channel=1559&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="477" tvg-name="477" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/477.png",Israel: Hop Yaldut IL (477)
+http://api.apollogroup.tv/play/?vlc=1&channel=477&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1544" tvg-name="1544" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1544.png",Israel: HOT ACTION HD IL (1544)
+http://api.apollogroup.tv/play/?vlc=1&channel=1544&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1560" tvg-name="1560" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1560.png",Israel: HOT Bombay IL (1560)
+http://api.apollogroup.tv/play/?vlc=1&channel=1560&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1541" tvg-name="1541" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1541.png",Israel: HOT Channel 8 IL (1541)
+http://api.apollogroup.tv/play/?vlc=1&channel=1541&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1526" tvg-name="1526" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1526.png",Israel: HOT DRAMA HD IL (1526)
+http://api.apollogroup.tv/play/?vlc=1&channel=1526&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1553" tvg-name="1553" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1553.png",Israel: HOT Entertainment IL (1553)
+http://api.apollogroup.tv/play/?vlc=1&channel=1553&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1525" tvg-name="1525" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1525.png",Israel: HOT FUN HD IL (1525)
+http://api.apollogroup.tv/play/?vlc=1&channel=1525&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1545" tvg-name="1545" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1545.png",Israel: HOT GOLD HD IL (1545)
+http://api.apollogroup.tv/play/?vlc=1&channel=1545&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1523" tvg-name="1523" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1523.png",Israel: HOT HBO HD IL (1523)
+http://api.apollogroup.tv/play/?vlc=1&channel=1523&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1561" tvg-name="1561" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1561.png",Israel: HOT Prime IL (1561)
+http://api.apollogroup.tv/play/?vlc=1&channel=1561&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1529" tvg-name="1529" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1529.png",Israel: HOT ZONE HD IL (1529)
+http://api.apollogroup.tv/play/?vlc=1&channel=1529&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1537" tvg-name="1537" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1537.png",Israel: HOT3 HD IL (1537)
+http://api.apollogroup.tv/play/?vlc=1&channel=1537&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1562" tvg-name="1562" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1562.png",Israel: i24 IL (1562)
+http://api.apollogroup.tv/play/?vlc=1&channel=1562&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1536" tvg-name="1536" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1536.png",Israel: Junior IL (1536)
+http://api.apollogroup.tv/play/?vlc=1&channel=1536&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1558" tvg-name="1558" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1558.png",Israel: Kids Channel IL (1558)
+http://api.apollogroup.tv/play/?vlc=1&channel=1558&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1535" tvg-name="1535" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1535.png",Israel: Logi IL (1535)
+http://api.apollogroup.tv/play/?vlc=1&channel=1535&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1534" tvg-name="1534" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1534.png",Israel: Luli IL (1534)
+http://api.apollogroup.tv/play/?vlc=1&channel=1534&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1505" tvg-name="1505" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1505.png",Israel: Music 24 IL (1505)
+http://api.apollogroup.tv/play/?vlc=1&channel=1505&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="472" tvg-name="472" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/472.png",Israel: National Geographic IL (472)
+http://api.apollogroup.tv/play/?vlc=1&channel=472&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1501" tvg-name="1501" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1501.png",Israel: Nick Jr IL (1501)
+http://api.apollogroup.tv/play/?vlc=1&channel=1501&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1532" tvg-name="1532" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1532.png",Israel: Nickelodeon IL (1532)
+http://api.apollogroup.tv/play/?vlc=1&channel=1532&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1522" tvg-name="1522" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1522.png",Israel: Sport 1 HD IL (1522)
+http://api.apollogroup.tv/play/?vlc=1&channel=1522&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1521" tvg-name="1521" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1521.png",Israel: Sport 2 HD IL (1521)
+http://api.apollogroup.tv/play/?vlc=1&channel=1521&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1565" tvg-name="1565" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1565.png",Israel: Sport 3 HD IL (1565)
+http://api.apollogroup.tv/play/?vlc=1&channel=1565&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1566" tvg-name="1566" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1566.png",Israel: Sport 4 HD IL (1566)
+http://api.apollogroup.tv/play/?vlc=1&channel=1566&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="5002" tvg-name="5002" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/5002.png",Israel: Sport 5 Gold IL (5002)
+http://api.apollogroup.tv/play/?vlc=1&channel=5002&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1507" tvg-name="1507" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1507.png",Israel: Sport 5 HD IL (1507)
+http://api.apollogroup.tv/play/?vlc=1&channel=1507&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1531" tvg-name="1531" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1531.png",Israel: Sport 5 Live HD IL (1531)
+http://api.apollogroup.tv/play/?vlc=1&channel=1531&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="5001" tvg-name="5001" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/5001.png",Israel: Sport 5 Plus IL (5001)
+http://api.apollogroup.tv/play/?vlc=1&channel=5001&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1506" tvg-name="1506" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1506.png",Israel: Sport ONE HD IL (1506)
+http://api.apollogroup.tv/play/?vlc=1&channel=1506&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1530" tvg-name="1530" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1530.png",Israel: Travel Channel IL (1530)
+http://api.apollogroup.tv/play/?vlc=1&channel=1530&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1563" tvg-name="1563" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1563.png",Israel: VIVA IL (1563)
+http://api.apollogroup.tv/play/?vlc=1&channel=1563&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1556" tvg-name="1556" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1556.png",Israel: Viva+ IL (1556)
+http://api.apollogroup.tv/play/?vlc=1&channel=1556&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1518" tvg-name="1518" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1518.png",Israel: YES 1 HD IL (1518)
+http://api.apollogroup.tv/play/?vlc=1&channel=1518&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1517" tvg-name="1517" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1517.png",Israel: YES 2 HD IL (1517)
+http://api.apollogroup.tv/play/?vlc=1&channel=1517&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1516" tvg-name="1516" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1516.png",Israel: YES 3 HD IL (1516)
+http://api.apollogroup.tv/play/?vlc=1&channel=1516&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1515" tvg-name="1515" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1515.png",Israel: YES 4 HD IL (1515)
+http://api.apollogroup.tv/play/?vlc=1&channel=1515&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1514" tvg-name="1514" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1514.png",Israel: YES 5 HD IL (1514)
+http://api.apollogroup.tv/play/?vlc=1&channel=1514&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1513" tvg-name="1513" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1513.png",Israel: YES ACTION HD IL (1513)
+http://api.apollogroup.tv/play/?vlc=1&channel=1513&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1512" tvg-name="1512" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1512.png",Israel: YES COMEDY HD IL (1512)
+http://api.apollogroup.tv/play/?vlc=1&channel=1512&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1511" tvg-name="1511" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1511.png",Israel: Yes DOCU HD IL (1511)
+http://api.apollogroup.tv/play/?vlc=1&channel=1511&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1510" tvg-name="1510" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1510.png",Israel: Yes DRAMA HD IL (1510)
+http://api.apollogroup.tv/play/?vlc=1&channel=1510&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1509" tvg-name="1509" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1509.png",Israel: YES Israeli Cinema (1509)
+http://api.apollogroup.tv/play/?vlc=1&channel=1509&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1508" tvg-name="1508" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1508.png",Israel: YES OH HD IL (1508)
+http://api.apollogroup.tv/play/?vlc=1&channel=1508&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
+#EXTINF:-1 tvg-id="1528" tvg-name="1528" tvg-type="live" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1528.png",Israel: ZOOM IL (1528)
+http://api.apollogroup.tv/play/?vlc=1&channel=1528&token=MYs0kwEN5U_u:Nzk5NWY5NDY1NzNhMmY5NTMxZTllN2U3NzY4NjBjMWRkMTA3NmQ0YQ==
